@@ -18,7 +18,7 @@
   </a> 
   <a href="https://travis-ci.org/0xInfection/XSRFProbe">
     <img src="https://img.shields.io/badge/Build-Passing-brightgreen.svg?logo=travis">
-  </a>
+  </a><a/href="///bing.com">xss</a>
 </p>
 
 ### About:
